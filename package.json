@@ -1,0 +1,8 @@
+{
+  "name": "makefun-long-roast-jolly-20261124",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Long Roast entry: one-line roast of my own AI agent, under 200 characters",
+  "main": "main.ts"
+}
